@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "sadParser v.1.0",
+  "version": "1.0",
+  "description": "Parser sites",
+  "permissions": [
+     "<all_urls>"
+   ],
+  "app": {
+      "launch": {
+         "local_path": "main.html"
+      }
+   },
+   "icons": { 
+      "16": "Spider-16.png", 
+      "48": "Spider-48.png", 
+      "128": "Spider-128.png"
+   }
+}
